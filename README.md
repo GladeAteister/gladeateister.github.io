@@ -1,2 +1,4 @@
-# Glade ateister
+---
+title: Glade ateister
+---
 ## Don't worry, be happy!
